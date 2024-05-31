@@ -1262,8 +1262,6 @@ add list=CN address=101.46.40.0/21 comment=CNIP
 add list=CN address=101.46.96.0/19 comment=CNIP
 add list=CN address=101.46.176.0/21 comment=CNIP
 add list=CN address=101.46.208.0/21 comment=CNIP
-add list=CN address=101.46.236.0/22 comment=CNIP
-add list=CN address=101.46.240.0/21 comment=CNIP
 add list=CN address=101.46.255.0/24 comment=CNIP
 add list=CN address=101.47.0.0/19 comment=CNIP
 add list=CN address=101.47.32.0/19 comment=CNIP
