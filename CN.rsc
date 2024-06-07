@@ -297,6 +297,7 @@ add list=CN address=38.101.160.40/32 comment=CNIP
 add list=CN address=38.101.162.120/32 comment=CNIP
 add list=CN address=38.103.64.26/32 comment=CNIP
 add list=CN address=38.196.176.0/24 comment=CNIP
+add list=CN address=38.224.60.0/24 comment=CNIP
 add list=CN address=39.0.0.0/24 comment=CNIP
 add list=CN address=39.0.2.0/23 comment=CNIP
 add list=CN address=39.0.4.0/22 comment=CNIP
