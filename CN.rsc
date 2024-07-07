@@ -3894,7 +3894,8 @@ add list=CN address=116.196.0.0/20 comment=CNIP
 add list=CN address=116.196.16.0/20 comment=CNIP
 add list=CN address=116.196.32.0/19 comment=CNIP
 add list=CN address=116.196.64.0/18 comment=CNIP
-add list=CN address=116.196.128.0/17 comment=CNIP
+add list=CN address=116.196.128.0/18 comment=CNIP
+add list=CN address=116.196.192.0/18 comment=CNIP
 add list=CN address=116.197.160.0/21 comment=CNIP
 add list=CN address=116.197.180.0/23 comment=CNIP
 add list=CN address=116.198.0.0/16 comment=CNIP
