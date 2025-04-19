@@ -4591,7 +4591,6 @@ add list=CN address=124.14.0.0/15 comment=CNIP
 add list=CN address=124.16.0.0/15 comment=CNIP
 add list=CN address=124.20.0.0/16 comment=CNIP
 add list=CN address=124.21.0.0/18 comment=CNIP
-add list=CN address=124.21.96.0/19 comment=CNIP
 add list=CN address=124.21.128.0/17 comment=CNIP
 add list=CN address=124.22.0.0/15 comment=CNIP
 add list=CN address=124.28.192.0/18 comment=CNIP
