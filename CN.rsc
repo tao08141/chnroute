@@ -4131,7 +4131,8 @@ add list=CN address=117.104.168.0/21 comment=CNIP
 add list=CN address=117.106.0.0/15 comment=CNIP
 add list=CN address=117.112.0.0/13 comment=CNIP
 add list=CN address=117.120.64.0/18 comment=CNIP
-add list=CN address=117.120.128.0/17 comment=CNIP
+add list=CN address=117.120.160.0/19 comment=CNIP
+add list=CN address=117.120.192.0/18 comment=CNIP
 add list=CN address=117.121.0.0/17 comment=CNIP
 add list=CN address=117.121.128.0/18 comment=CNIP
 add list=CN address=117.121.192.0/21 comment=CNIP
