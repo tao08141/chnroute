@@ -4652,7 +4652,8 @@ add list=CN address=125.112.0.0/12 comment=CNIP
 add list=CN address=125.169.0.0/16 comment=CNIP
 add list=CN address=125.171.0.0/16 comment=CNIP
 add list=CN address=125.208.0.0/19 comment=CNIP
-add list=CN address=125.208.36.0/22 comment=CNIP
+add list=CN address=125.208.37.0/24 comment=CNIP
+add list=CN address=125.208.38.0/23 comment=CNIP
 add list=CN address=125.208.40.0/23 comment=CNIP
 add list=CN address=125.208.45.0/24 comment=CNIP
 add list=CN address=125.208.46.0/23 comment=CNIP
