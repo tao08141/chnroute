@@ -4930,7 +4930,6 @@ add list=CN address=158.79.32.0/19 comment=CNIP
 add list=CN address=158.79.64.0/18 comment=CNIP
 add list=CN address=158.79.128.0/17 comment=CNIP
 add list=CN address=158.140.252.0/23 comment=CNIP
-add list=CN address=158.140.255.0/24 comment=CNIP
 add list=CN address=159.27.0.0/16 comment=CNIP
 add list=CN address=159.75.0.0/16 comment=CNIP
 add list=CN address=159.226.0.0/16 comment=CNIP
