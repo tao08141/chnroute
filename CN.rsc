@@ -6919,8 +6919,7 @@ add list=CN address=220.242.152.0/23 comment=CNIP
 add list=CN address=220.242.154.0/23 comment=CNIP
 add list=CN address=220.242.156.0/22 comment=CNIP
 add list=CN address=220.242.160.0/20 comment=CNIP
-add list=CN address=220.242.176.0/21 comment=CNIP
-add list=CN address=220.242.184.0/21 comment=CNIP
+add list=CN address=220.242.176.0/20 comment=CNIP
 add list=CN address=220.242.192.0/18 comment=CNIP
 add list=CN address=220.243.0.0/17 comment=CNIP
 add list=CN address=220.243.128.0/18 comment=CNIP
