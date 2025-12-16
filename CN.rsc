@@ -5594,6 +5594,7 @@ add list=CN address=202.134.58.0/24 comment=CNIP
 add list=CN address=202.134.128.0/20 comment=CNIP
 add list=CN address=202.134.208.0/20 comment=CNIP
 add list=CN address=202.136.48.0/20 comment=CNIP
+add list=CN address=202.136.72.0/23 comment=CNIP
 add list=CN address=202.136.208.0/20 comment=CNIP
 add list=CN address=202.136.224.0/20 comment=CNIP
 add list=CN address=202.136.248.0/22 comment=CNIP
