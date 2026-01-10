@@ -4686,6 +4686,7 @@ add list=CN address=134.75.107.14/31 comment=CNIP
 add list=CN address=134.175.0.0/16 comment=CNIP
 add list=CN address=137.59.59.0/24 comment=CNIP
 add list=CN address=137.59.88.0/22 comment=CNIP
+add list=CN address=138.252.72.0/23 comment=CNIP
 add list=CN address=139.5.56.0/21 comment=CNIP
 add list=CN address=139.5.80.0/22 comment=CNIP
 add list=CN address=139.5.92.0/22 comment=CNIP
