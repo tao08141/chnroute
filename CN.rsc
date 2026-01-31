@@ -290,6 +290,7 @@ add list=CN address=27.152.0.0/13 comment=CNIP
 add list=CN address=27.184.0.0/13 comment=CNIP
 add list=CN address=27.192.0.0/11 comment=CNIP
 add list=CN address=27.224.0.0/14 comment=CNIP
+add list=CN address=31.133.128.0/18 comment=CNIP
 add list=CN address=36.0.0.0/22 comment=CNIP
 add list=CN address=36.0.8.0/21 comment=CNIP
 add list=CN address=36.0.16.0/20 comment=CNIP
@@ -1161,6 +1162,7 @@ add list=CN address=61.232.0.0/14 comment=CNIP
 add list=CN address=61.236.0.0/15 comment=CNIP
 add list=CN address=61.240.0.0/14 comment=CNIP
 add list=CN address=62.234.0.0/16 comment=CNIP
+add list=CN address=63.140.0.0/24 comment=CNIP
 add list=CN address=64.71.138.0/25 comment=CNIP
 add list=CN address=64.235.230.152/30 comment=CNIP
 add list=CN address=65.97.55.248/29 comment=CNIP
@@ -5549,7 +5551,9 @@ add list=CN address=202.94.0.0/19 comment=CNIP
 add list=CN address=202.94.74.0/24 comment=CNIP
 add list=CN address=202.94.81.0/24 comment=CNIP
 add list=CN address=202.94.92.0/22 comment=CNIP
-add list=CN address=202.95.3.0/24 comment=CNIP
+add list=CN address=202.95.0.0/24 comment=CNIP
+add list=CN address=202.95.2.0/23 comment=CNIP
+add list=CN address=202.95.24.0/21 comment=CNIP
 add list=CN address=202.95.240.0/21 comment=CNIP
 add list=CN address=202.95.252.0/22 comment=CNIP
 add list=CN address=202.96.0.0/12 comment=CNIP
