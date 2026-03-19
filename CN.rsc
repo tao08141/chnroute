@@ -3910,14 +3910,7 @@ add list=CN address=116.68.176.0/21 comment=CNIP
 add list=CN address=116.69.0.0/16 comment=CNIP
 add list=CN address=116.70.0.0/17 comment=CNIP
 add list=CN address=116.76.0.0/14 comment=CNIP
-add list=CN address=116.85.0.0/17 comment=CNIP
-add list=CN address=116.85.128.0/18 comment=CNIP
-add list=CN address=116.85.192.0/19 comment=CNIP
-add list=CN address=116.85.224.0/20 comment=CNIP
-add list=CN address=116.85.240.0/21 comment=CNIP
-add list=CN address=116.85.248.0/23 comment=CNIP
-add list=CN address=116.85.250.0/24 comment=CNIP
-add list=CN address=116.85.252.0/22 comment=CNIP
+add list=CN address=116.85.0.0/16 comment=CNIP
 add list=CN address=116.89.144.0/20 comment=CNIP
 add list=CN address=116.90.80.0/20 comment=CNIP
 add list=CN address=116.90.184.0/21 comment=CNIP
