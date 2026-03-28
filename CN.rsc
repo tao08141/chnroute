@@ -5027,6 +5027,7 @@ add list=CN address=164.52.74.0/24 comment=CNIP
 add list=CN address=164.52.80.0/24 comment=CNIP
 add list=CN address=165.99.4.0/24 comment=CNIP
 add list=CN address=165.101.70.0/24 comment=CNIP
+add list=CN address=165.101.208.0/23 comment=CNIP
 add list=CN address=166.111.0.0/16 comment=CNIP
 add list=CN address=167.139.0.0/16 comment=CNIP
 add list=CN address=167.189.0.0/16 comment=CNIP
