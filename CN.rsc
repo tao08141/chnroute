@@ -6728,8 +6728,7 @@ add list=CN address=204.55.160.0/24 comment=CNIP
 add list=CN address=204.79.135.24/32 comment=CNIP
 add list=CN address=210.2.0.0/23 comment=CNIP
 add list=CN address=210.2.2.0/24 comment=CNIP
-add list=CN address=210.2.5.0/24 comment=CNIP
-add list=CN address=210.2.6.0/23 comment=CNIP
+add list=CN address=210.2.4.0/22 comment=CNIP
 add list=CN address=210.2.8.0/21 comment=CNIP
 add list=CN address=210.2.16.0/22 comment=CNIP
 add list=CN address=210.2.20.0/23 comment=CNIP
