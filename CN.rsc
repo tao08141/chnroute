@@ -1010,7 +1010,9 @@ add list=CN address=45.253.144.0/20 comment=CNIP
 add list=CN address=45.253.160.0/19 comment=CNIP
 add list=CN address=45.253.192.0/19 comment=CNIP
 add list=CN address=45.253.224.0/20 comment=CNIP
-add list=CN address=45.253.240.0/21 comment=CNIP
+add list=CN address=45.253.240.0/22 comment=CNIP
+add list=CN address=45.253.244.0/23 comment=CNIP
+add list=CN address=45.253.247.0/24 comment=CNIP
 add list=CN address=45.254.0.0/20 comment=CNIP
 add list=CN address=45.254.16.0/21 comment=CNIP
 add list=CN address=45.254.28.0/22 comment=CNIP
