@@ -2999,7 +2999,7 @@ add list=CN address=103.221.192.0/20 comment=CNIP
 add list=CN address=103.222.0.0/20 comment=CNIP
 add list=CN address=103.222.16.0/22 comment=CNIP
 add list=CN address=103.222.24.0/21 comment=CNIP
-add list=CN address=103.222.33.0/24 comment=CNIP
+add list=CN address=103.222.32.0/23 comment=CNIP
 add list=CN address=103.222.34.0/23 comment=CNIP
 add list=CN address=103.222.36.0/22 comment=CNIP
 add list=CN address=103.222.40.0/21 comment=CNIP
